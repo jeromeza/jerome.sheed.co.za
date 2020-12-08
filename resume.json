@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jerome Sheed",
+    "label": "Architect | Engineer | Linux | Kubernetes | Cloud",
+    "image": "",
+    "email": "jerome@sheed.co.za",
+    "url": "http://jeromesheed.com",
+    "summary": "A versatile and dedicated systems engineer with over 10 years experience in the field. From traditional system administration / engineering / architecture to DevOps, Automation, Orchestration, Config Management, Containers and everything in between.",
+    "location": {
+      "city": "Cape Town",
+      "countryCode": ", ZA",
+      "region": "South Africa"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jeromesheed",
+        "url": "https://www.linkedin.com/in/jeromesheed/"
+      },
+      {
+        "network": "GitHub",
+        "username": "jeromeza",
+        "url": "https://github.com/jeromeza"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "Download CV",
+        "url": "https://github.com/jeromeza/jeromeza.github.io/raw/master/resume.pdf"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "DigiOutsource",
+      "position": "DevOps Engineer - Open Source",
+      "website": "https://www.digioutsource.com/",
+      "startDate": "2019-12-01",
+      "endDate": "",
+      "summary": "DigiOutsource is a global technology and e-commerce leader with 20 years in the industry, offering employees valuable international experience in the world of online gambling and advanced systems.",
+      "highlights": [
+        "Automation, Orchestration, Config Management.",
+        "Plan, manage and facilitate elimination of technical debt.",
+        "Plan, manage and facilitate migration of traditional workloads to Kubernetes via means of Ansible, Terraform and CI/CD pipelines.",
+        "Mentor and provide both informal / formal training to colleagues."
+      ]
+    },
+    {
+      "company": "Amazon Web Services",
+      "position": "Linux Cloud Engineer",
+      "website": "https://aws.amazon.com/",
+      "startDate": "2018-05-01",
+      "endDate": "2019-11-30",
+      "summary": "AWS - The Largest Cloud Provider In The World. Assisting enterprise customers like - Disney, Netflix, Siemens, Shell, Amazon.com to make use of all AWS Services related to Linux.",
+      "highlights": [
+        "Enterprise Escalation Point for various AWS services like EC2, EBS, EFS, SSM etc.",
+        "Developed and released internal training for other engineers on specific AWS services.",
+        "Mentored junior engineers and facilitate their grown / promotion.",
+        "Performed over 50 technical interviews and participated in numerous hiring events.",
+        "Worked with Solutions Architect Team at AWS Public Events, like re:Invent to onboard and assist new clients."
+      ]
+    },
+    {
+      "company": "RedPixie (acquired by HPE)",
+      "position": "Senior Linux Engineer",
+      "website": "https://www.hpe.com/",
+      "startDate": "2017-06-01",
+      "endDate": "2018-05-01",
+      "summary": "RedPixie was one of Europe’s leading cloud specialists. I built, managed and maintained one of Europe's biggest insurers (Legal And General) HPC Linux environment.",
+      "highlights": [
+        "Managed and helped design and deploy, a Linux HPC Algo One Cluster (300+ VMs) in Azure.",
+        "Implemented and wrote several Puppet manifests to better control environment.",
+        "Implemented and wrote several monitoring scripts to better monitor environment.",
+        "Provided internal Linux training to staff."
+      ]
+    },
+    {
+      "company": "RSAWeb",
+      "position": "Senior Cloud and Infrastructure Engineer",
+      "website": "https://www.rsaweb.co.za/",
+      "startDate": "2016-07-01",
+      "endDate": "2017-06-01",
+      "summary": "RSAWEB is a South African ISP. I worked as a Cloud Engineer deploying a variety of environments. Email, hosting, virtualization, storage, DNS and anything in between",
+      "highlights": [
+        "Converting of both authoritative and recursive DNS servers to PowerDNS (Linux), from mydns (FreeBSD).",
+        "Implemented Ansible to deploy and manage various client environments.",
+        "Implementing and building of ZFS arrays for slow archival storage.",
+        "Providing training and mentoring to helpdesk staff."
+      ]
+    },
+    {
+      "company": "Marketech",
+      "position": "Senior Technology Expert and Third Line Support",
+      "startDate": "2016-02-01",
+      "endDate": "2016-06-01",
+      "summary": "Marketech is a company that specialises in POS systems. I worked as 3rd line Linux support for a tier 1 retail organisation (Pick n Pay). Provided support for an estate of +-7000 SUSE (SLES) machines."
+    },
+    {
+      "company": "RightShift (acquired by Derivco)",
+      "position": "IT Team Lead",
+      "website": "https://derivco.co.za/",
+      "startDate": "2012-12-01",
+      "endDate": "2016-01-01",
+      "summary": "Rightshift was a company that specialized in creating games for the online gambling industry. I was responsible for the management of the IT department/infrastructure.",
+      "highlights": [
+        "All external services hosted through sister company moved in house: AD, Exchange, VMWare, Firewall, Storage and Asset Management.",
+        "Recruiting and training of additional IT resources.",
+        "Multiple seamless office moves.",
+        "Ansible rolled out as a config management tool of choice.",
+        "Procuring and setting up mobile charge stations for over 100 devices."
+      ]
+    },
+    {
+      "company": "Orange Street Software",
+      "position": "ICT Manager",
+      "website": "https://orangestreet.biz",
+      "startDate": "2011-07-01",
+      "endDate": "2012-11-01",
+      "summary": "Orange Street Software specialises in outsourced IT services for medium to enterprise businesses. Client facing and outsourced to clients on a contractual basis.",
+      "highlights": [
+        "Outsourced to a leading liquor distributor (Picardi Rebel) with approximately 80 branches nationally.",
+        "I managed all aspects of their IT setup.",
+        "Project managed, architected and deployed a National POS rollout.",
+        "Implemented help desk solution.",
+        "Converted all stores to ADSL connectivity and cut billing and reliance on old equipment.",
+        "Converted old company website in to a modern CMS platform."
+      ]
+    },
+    {
+      "company": "Solid Systems",
+      "position": "IT Engineer",
+      "website": "https://www.solidsystems.co.za/",
+      "startDate": "2010-05-01",
+      "endDate": "2011-06-01",
+      "summary": "Solid Systems specialises in outsourced IT services for small and medium sized businesses. Roaming on-site support engineer. I visited clients on an ad-hoc and monthly basis and provided them with IT support.",
+      "highlights": [
+        "This ranged from hardware / software support on a desktop level to server maintenance / administration.",
+        "I managed client expectations on-site and provided them with any IT services required. I also provided remote assistance / after hours support if required."
+      ]
+    },
+    {
+      "company": "Adept Software",
+      "position": "IT Support Engineer",
+      "website": "http://piedpiper.example.com",
+      "startDate": "2008-06-01",
+      "endDate": "2010-04-01",
+      "summary": "Adept Software creates so􀈅ware catering for the logistics / courier industries.",
+      "highlights": [
+        "I worked as a IT Support Engineer. My work was primarily done over the phone via the IT help desk, but I did occasionally go out on-site, in order to train and assist clients in person.",
+        "I supported and installed Adept’s software packages. These include Parcel Perfect, PPSms, PPMobile and PPImager.",
+        "Linux and SQL administration.",
+        "Backups."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Groote Schuur High",
+      "area": "Certificate",
+      "studyType": "Matric",
+      "startDate": "1999",
+      "endDate": "2004",
+      "courses": [
+        "English",
+        "Afrikaans",
+        "Maths",
+        "Geography",
+        "Business Economics",
+        "History",
+        "Computer Science"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Apple Certified Support Professional 10.6",
+      "date": "2011",
+      "awarder": "Apple",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Apple Certified Support Professional 10.7",
+      "date": "2011",
+      "awarder": "Apple",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "LPIC 1",
+      "date": "2012",
+      "awarder": "Linux Professional Institute - LPI",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "SUSE Certified Administrator",
+      "date": "2012",
+      "awarder": "SUSE",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "SUSE Certified Engineer",
+      "date": "2012",
+      "awarder": "SUSE",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Comptia Linux+",
+      "date": "2012",
+      "awarder": "Comptia",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "RHCSA (Red Hat Certified System Administrator)",
+      "date": "2015",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "LPIC 2",
+      "date": "2016",
+      "awarder": "Linux Professional Institute - LPI",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "RHCE (Red Hat Certified System Engineer)",
+      "date": "2017",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "AWS Architect Associate",
+      "date": "2017",
+      "awarder": "Amazon Web Services",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Microsoft - Implementing Microsoft Azure Solutions",
+      "date": "2017",
+      "awarder": "Microsoft",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "LFCS (Linux Foundation Certified System Administrator)",
+      "date": "2017",
+      "awarder": "Linux Foundation",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "MCSA: Linux on Azure (Microsoft Certified Solutions Associate)",
+      "date": "2017",
+      "awarder": "Microsoft",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "AWS Developer Associate",
+      "date": "2018",
+      "awarder": "Amazon Web Services",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified Specialist in Ansible Automation",
+      "date": "2018",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified Specialist In Hybrid Cloud Managment",
+      "date": "2018",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified Specialist In Virtualization",
+      "date": "2018",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified Specialist in Configuration Management",
+      "date": "2019",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified System Administrator in Red Hat OpenStack",
+      "date": "2019",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "RHCA (Red Hat Certified Architect)",
+      "date": "2019",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "CKA (Certified Kubernetes Administrator)",
+      "date": "2020",
+      "awarder": "Cloud Native Computing Foundation",
+      "summary": "Offical Certification"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cloud Computing",
+      "level": "Master",
+      "keywords": [
+        "AWS",
+        "AZURE"
+
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Master",
+      "keywords": [
+        "RHEL based",
+        "Debian based"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Advanced",
+      "keywords": [
+        "Ansible",
+        "Terraform",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Process"
+      ]
+    },
+    {
+      "name": "Solutions Architecture",
+      "level": "Advanced",
+      "keywords": [
+        "enterprise migrations",
+        "new cloud-ready solutions design",
+        "hybrid solutions design",
+        "high performance compute"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    
+    },
+    {
+      "language": "Afrikaans",
+      "fluency": "Fluent"
+    
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Open Source",
+        "Trending",
+        "Hacking"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Vinayak Kumar - Senior DevOps Engineer - https://www.linkedin.com/in/vinayak-kumar/",
+      "reference": "I know a lot of Linux engineers and DevOps Practitioners - and Jerome, when it comes to Linux and DevOps, is one of the best I've met. We've worked together for common clients and aside from his skill, what I appreciate most is how reliable and responsive he is. As we worked on public cloud platforms together even though in different teams, Jerome was always keen to help and share his knowledge with rest of the team. I happily recommend him here on LinkedIn, and do so in person to my clients whenever I have the opportunity."
+    },
+    {
+      "name": "Daniel Koszegi - Senior Cloud Architect - https://www.linkedin.com/in/koszegi/",
+      "reference": "Jerome always amazed me with his industry insight and original approach to solving problems. He is a powerful, knowledgeable and responsible Linux Engineer. Jerome is extremely enthusiastic about his work which is infectious. An eager professional - no matter how complex the problem is, he will always come up with a brilliant, elegant, and cost-effective solution. I could always rely on him to set the best example to the rest of the team. Absolutely someone I'd want to to have on my team."
+    },
+    {
+      "name": "Daniel Fiske - Technology Consultant - Private Equity - https://www.linkedin.com/in/danielfiske/",
+      "reference": "It was a pleasure working with Jerome. He proved himself technically proficient in a broad range of technologies. He was able to adapt his knowledge as the business evolved and always showed great commitment to the team. He was a fun member of the team who will be missed (ask him about Chairman Meow)."
+    },
+    {
+      "name": "Daniel Avinir - CTO - https://www.linkedin.com/in/danavinir/",
+      "reference": "Jerome is extremely passionate about IT - He loves a challenge and can think outside the box. I would happily employ him again."
+    },
+    {
+      "name": "Stephen Smit - Operations Manager - https://www.linkedin.com/in/stephen-smit-ab60a359/",
+      "reference": "Jerome has an Expert and detailed understanding of IT and infrastructure delivered with attention to detail. He approaches any challenge with enthusiasm and goes the extra mile. His solutions are innovative, delivering that peculiar IT alchemy of service delivery within budgetary constraints. I have him on speed-dial!"
+    },
+    {
+      "name": "Guido Viglietti - Technical Support Engineer - https://www.linkedin.com/in/guido-viglietti-2566a62b/",
+      "reference": "Jerome is an asset to any team, he is motivated, polite, proactive and most importantly knowledgeable. He has a great can do attitude and is always looking for ways to improve the environment he is placed in. I would both recommend and work with him in the future should oppurtunities present themselves."
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
