@@ -1,6 +1,6 @@
 {
   "meta": {
-    "theme": "elegant"
+    "theme": "stackoverflow"
   },
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
@@ -9,7 +9,7 @@
     "image": "",
     "email": "jerome@sheed.co.za",
     "url": "http://jeromesheed.com",
-    "summary": "A versatile and dedicated systems engineer with over 10 years experience in the field. From traditional system administration / engineering / architecture to DevOps, Automation, Orchestration, Config Management, Containers and everything in between.",
+    "summary": "A versatile and dedicated systems engineer with over 15 years experience in the field. From traditional system administration / engineering / architecture to DevOps, Automation, Orchestration, Config Management, Containers and everything in between.",
     "location": {
       "city": "Cape Town",
       "countryCode": ", ZA",
@@ -299,6 +299,24 @@
       "title": "CKA (Certified Kubernetes Administrator)",
       "date": "2020",
       "awarder": "Cloud Native Computing Foundation",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "CKD (Certified Kubernetes Developer)",
+      "date": "2021",
+      "awarder": "Cloud Native Computing Foundation",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "CKS (Certified Kubernetes Security Specialist)",
+      "date": "2021",
+      "awarder": "Cloud Native Computing Foundation",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified Specialist in Containers and Kubernetes",
+      "date": "2021",
+      "awarder": "Red Hat",
       "summary": "Offical Certification"
     }
   ],
