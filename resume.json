@@ -35,11 +35,25 @@
   },
   "work": [
     {
+      "company": "Red Hat",
+      "position": "Senior Cloud Consultant - OpenShift",
+      "website": "https://www.redhat.com/",
+      "startDate": "2022-02-01",
+      "endDate": "",
+      "summary": "Red Hat is the leading provider of enterprise open source software solutions and the biggest enterprise Linux vendor in the world",
+      "highlights": [
+        "Architecture, Consulting, OpenShift, OpenShift Data Foundation, OpenShift Advanced Cluster Management, OpenShift Advanced Cluster Security, Quay, Kubernetes, Config Management, Linux.",
+        "Architect, plan, manage and deploy customer projects.",
+        "Present and lead design workshops to onboard new OpenShift customers, elaborate on our products and determine their needs.",
+        "Implement designs / solutions based off of these findings, whilst teaching the customer about our technologies, and showing them the pain points they can eliminate in their environments. All the while, ensuring the customer has a great experience in the process."
+      ]
+    },
+    {
       "company": "DigiOutsource",
       "position": "DevOps Engineer - Open Source",
       "website": "https://www.digioutsource.com/",
       "startDate": "2019-12-01",
-      "endDate": "",
+      "endDate": "2022-01-31",
       "summary": "DigiOutsource is a global technology and e-commerce leader with 20 years in the industry, offering employees valuable international experience in the world of online gambling and advanced systems.",
       "highlights": [
         "Automation, Orchestration, Config Management.",
@@ -316,6 +330,30 @@
     {
       "title": "Red Hat Certified Specialist in Containers and Kubernetes",
       "date": "2021",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified Specialist in OpenShift Administration",
+      "date": "2022",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified Specialist in OpenShift Application Development",
+      "date": "2022",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified Specialist in Containers",
+      "date": "2022",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified Specialist in MultiCluster Management",
+      "date": "2022",
       "awarder": "Red Hat",
       "summary": "Offical Certification"
     }
