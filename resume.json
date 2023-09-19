@@ -49,7 +49,7 @@
       ]
     },
     {
-      "company": "DigiOutsource",
+      "name": "DigiOutsource",
       "position": "DevOps Engineer - Open Source",
       "website": "https://www.digioutsource.com/",
       "startDate": "2019-12-01",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "company": "Amazon Web Services",
+      "name": "Amazon Web Services",
       "position": "Linux Cloud Engineer",
       "website": "https://aws.amazon.com/",
       "startDate": "2018-05-01",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "company": "RedPixie (acquired by HPE)",
+      "name": "RedPixie (acquired by HPE)",
       "position": "Senior Linux Engineer",
       "website": "https://www.hpe.com/",
       "startDate": "2017-06-01",
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "company": "RSAWeb",
+      "name": "RSAWeb",
       "position": "Senior Cloud and Infrastructure Engineer",
       "website": "https://www.rsaweb.co.za/",
       "startDate": "2016-07-01",
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "company": "Marketech",
+      "name": "Marketech",
       "position": "Senior Technology Expert and Third Line Support",
       "startDate": "2016-02-01",
       "endDate": "2016-06-01",
       "summary": "Marketech is a company that specialises in POS systems. I worked as 3rd line Linux support for a tier 1 retail organisation (Pick n Pay). Provided support for an estate of +-7000 SUSE (SLES) machines."
     },
     {
-      "company": "RightShift (acquired by Derivco)",
+      "name": "RightShift (acquired by Derivco)",
       "position": "IT Team Lead",
       "website": "https://derivco.co.za/",
       "startDate": "2012-12-01",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "company": "Orange Street Software",
+      "name": "Orange Street Software",
       "position": "ICT Manager",
       "website": "https://orangestreet.biz",
       "startDate": "2011-07-01",
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "company": "Solid Systems",
+      "name": "Solid Systems",
       "position": "IT Engineer",
       "website": "https://www.solidsystems.co.za/",
       "startDate": "2010-05-01",
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "company": "Adept Software",
+      "name": "Adept Software",
       "position": "IT Support Engineer",
       "website": "http://piedpiper.example.com",
       "startDate": "2008-06-01",
