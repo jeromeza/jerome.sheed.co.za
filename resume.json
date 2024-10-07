@@ -36,10 +36,24 @@
   "work": [
     {
       "name": "Red Hat",
+      "position": "Consulting Architect - OpenShift",
+      "website": "https://www.redhat.com/",
+      "startDate": "2023-10-01",
+      "endDate": "",
+      "summary": "Red Hat is the leading provider of enterprise open source software solutions and the biggest enterprise Linux vendor in the world",
+      "highlights": [
+        "Architecture, Consulting, OpenShift, OpenShift Virtualization, OpenShift Data Foundation, OpenShift Advanced Cluster Management, OpenShift Advanced Cluster Security, Quay, Kubernetes, Config Management, Linux.",
+        "Architect, plan, manage and deploy customer projects.",
+        "Present and lead design workshops to onboard new OpenShift customers, elaborate on our products and determine their needs.",
+        "Implement designs / solutions based off of these findings, whilst teaching the customer about our technologies, and showing them the pain points they can eliminate in their environments. All the while, ensuring the customer has a great experience in the process."
+      ]
+    },
+    {
+      "name": "Red Hat",
       "position": "Senior Cloud Consultant - OpenShift",
       "website": "https://www.redhat.com/",
       "startDate": "2022-02-01",
-      "endDate": "",
+      "endDate": "2023-09-30",
       "summary": "Red Hat is the leading provider of enterprise open source software solutions and the biggest enterprise Linux vendor in the world",
       "highlights": [
         "Architecture, Consulting, OpenShift, OpenShift Data Foundation, OpenShift Advanced Cluster Management, OpenShift Advanced Cluster Security, Quay, Kubernetes, Config Management, Linux.",
