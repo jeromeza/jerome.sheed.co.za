@@ -370,6 +370,24 @@
       "date": "2022",
       "awarder": "Red Hat",
       "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified Specialist in OpenShift Virtualization",
+      "date": "2023",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified Specialist in OpenShift AI",
+      "date": "2024",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
+    },
+    {
+      "title": "Red Hat Certified OpenShift Architect",
+      "date": "2024",
+      "awarder": "Red Hat",
+      "summary": "Offical Certification"
     }
   ],
   "skills": [
